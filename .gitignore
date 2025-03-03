@@ -1,4 +1,8 @@
 .venv
-
+venv
+.vscode
+__pycache__
+*.pyc
+*.pyo
 
 DS_Store
